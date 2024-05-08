@@ -26,7 +26,7 @@ export default function Features() {
             <div className="h-auto">
               <a href="#letstalk" rel="noreferrer">
                 <img
-                  className="transition duration-700 rounded shadow-2xl h-80 md:h-60 hover:shadow-3xl md:hover:transform md:hover:scale-105"
+                  className="transition duration-700 rounded shadow-2xl h-80 md:h-40 hover:shadow-3xl md:hover:transform md:hover:scale-105"
                   src="/images/knsb.webp"
                   alt="Web design"
                 />
@@ -92,7 +92,7 @@ export default function Features() {
             <div className="h-auto">
               <a href="#letstalk" rel="noreferrer">
                 <img
-                  className="transition duration-700 rounded shadow-2xl h-80 hover:shadow-3xl md:hover:transform md:hover:scale-105"
+                  className="transition duration-700 rounded shadow-2xl h-80 md:h-40 hover:shadow-3xl md:hover:transform md:hover:scale-105"
                   src="/images/gadgify.webp"
                   alt="Web Redesign"
                 />
@@ -160,7 +160,7 @@ export default function Features() {
             <div className="h-auto">
               <a href="#letstalk" rel="noreferrer">
                 <img
-                  className="transition duration-700 rounded shadow-2xl h-80 hover:shadow-3xl md:hover:transform md:hover:scale-105"
+                  className="transition duration-700 rounded shadow-2xl h-80 md:h-40 hover:shadow-3xl md:hover:transform md:hover:scale-105"
                   src="/images/reyna.webp"
                   alt="Web Maintenance"
                 />
@@ -228,7 +228,7 @@ export default function Features() {
             <div className="h-auto">
               <a href="#letstalk" rel="noreferrer">
                 <img
-                  className="transition duration-700 rounded shadow-2xl h-80 hover:shadow-3xl md:hover:transform md:hover:scale-105"
+                  className="transition duration-700 rounded shadow-2xl h-80 md:h-40 hover:shadow-3xl md:hover:transform md:hover:scale-105"
                   src="/images/webilo.webp"
                   alt="Web Development"
                 />
@@ -295,7 +295,7 @@ export default function Features() {
             <div className="h-auto">
               <a href="#letstalk" rel="noreferrer">
                 <img
-                  className="transition duration-700 rounded shadow-2xl h-80 hover:shadow-3xl md:hover:transform md:hover:scale-105"
+                  className="transition duration-700 rounded shadow-2xl h-80 md:h-40 hover:shadow-3xl md:hover:transform md:hover:scale-105"
                   src="/images/ez.webp"
                   alt="SEO On & Off"
                 />
@@ -329,7 +329,7 @@ export default function Features() {
             <div className="h-auto">
               <a href="#letstalk" rel="noreferrer">
                 <img
-                  className="transition duration-700 rounded shadow-2xl h-80 hover:shadow-3xl md:hover:transform md:hover:scale-105"
+                  className="transition duration-700 rounded shadow-2xl h-80 md:h-40 hover:shadow-3xl md:hover:transform md:hover:scale-105"
                   src="/images/realme.webp"
                   alt="Google My Business Optimization"
                 />
