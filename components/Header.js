@@ -73,7 +73,7 @@ export default function Header() {
             aria-label="Toggle Dark Mode"
             type="button"
             className="w-10 h-10 p-3 ml-5 mr-0 bg-gray-200 rounded md:ml-0 md:mr-5 dark:bg-gray-800"
-            onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+            onClick={() => setTheme(theme === "light" ? "dark" : "light")}
           >
             {mounted && (
               <svg
