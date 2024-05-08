@@ -26,7 +26,7 @@ export default function Features() {
             <div className="h-auto">
               <a href="#letstalk" rel="noreferrer">
                 <img
-                  className="transition duration-700 rounded shadow-2xl h-80 hover:shadow-3xl md:hover:transform md:hover:scale-105"
+                  className="transition duration-700 rounded shadow-2xl h-80 md:h-60 hover:shadow-3xl md:hover:transform md:hover:scale-105"
                   src="/images/knsb.webp"
                   alt="Web design"
                 />
