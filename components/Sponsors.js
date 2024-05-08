@@ -14,7 +14,7 @@ export default function Sponsors() {
           shine online.
         </p>
         <div className="mt-6 text-center md:ml-6">
-          <Link href="#letstalk">
+          <Link href="#letstalk" legacyBehavior>
             <a
               className="inline-flex items-center px-5 py-3 mt-2 ml-0 text-sm font-medium text-gray-700 transition duration-300 border rounded shadow dark:hover:border-gray-500 hover:shadow-md md:ml-2 dark:text-gray-300"
               aria-label="learn more"
